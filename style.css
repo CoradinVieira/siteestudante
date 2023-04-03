@@ -44,3 +44,84 @@ line-height: 58px;
 
 color: #FFFFFF;
 }
+
+center {
+  font-family: "Indie Flower";
+}
+
+.corado {
+  position: absolute;
+width: 469px;
+height: 611px;
+left: 830px;
+top: 277px;
+
+background: url(corado.jpg);
+}
+
+.nome {
+
+position: absolute;
+width: 1000px;
+height: 58px;
+left: 13px;
+top: 286px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+
+.anos {
+  position: absolute;
+  width: 1000px;
+  height: 58px;
+  left: 13px;
+  top: 362px;
+
+  font-family: 'Indie Flower';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 58px;
+
+  color: #FFFFFF;
+
+}
+
+.serie {
+  position: absolute;
+width: 1000px;
+height: 58px;
+left: 13px;
+top: 438px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+
+.favorita {
+  position: absolute;
+width: 500px;
+height: 116px;
+left: 13px;
+top: 525px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+}
